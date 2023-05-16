@@ -175,5 +175,9 @@
   {
     "name": "Realm of Serene Lime",
     "address": ["43.248.185.167:8517","n2.akiracloud.net:10686"]
+  },
+  {
+    "name": "Gadgetroch's Server",
+    "address": "mindustry.gadgetroch.com"
   }
 ]
